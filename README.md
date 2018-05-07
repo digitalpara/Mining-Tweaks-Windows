@@ -1,4 +1,4 @@
-﻿# Ethminer_Watchdog
+﻿# Begin first windows mining tweaks then nvidia profil inspector then begin with mining Ethminer_Watchdog
 Restarts Ethminer on Error in Logfile
 
 __________________________________________________________________________________________
